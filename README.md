@@ -1,2 +1,2 @@
 # TinyC-Compiler
-Assignment for compiler design course 
+Assignments for compiler design course 
